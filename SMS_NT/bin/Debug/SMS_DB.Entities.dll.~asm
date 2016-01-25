@@ -1,0 +1,75 @@
+.model small
+.stack 100h
+.data
+char db 80 dup(0),'$'
+msg db 13,10,"$"
+.code
+main proc
+mov ax,@data
+mov ds,ax
+mov es,ax
+
+xor bx,bx
+
+mov ah,1
+
+while:
+
+int 21h
+cmp al,0dh
+je end_w
+cmp al,' '
+je go
+push ax
+
+
+inc bl
+jmp while
+
+go:
+cmp bl,0
+je space
+pop ax
+
+cld
+stosb
+dec bl
+jmp go
+
+space:
+
+mov al,' ' 
+cld
+stosb 
+
+jmp while
+
+end_w:
+cmp bl,0
+je end 
+pop ax
+
+cld
+stosb
+dec bl
+jmp end_w
+
+
+end:
+lea dx,msg
+mov ah,9
+int 21h
+
+lea dx,char
+mov ah,9
+int 21h
+
+mov ah,4ch
+int 21h
+
+main endp
+end main
+
+
+
+

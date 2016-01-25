@@ -1,0 +1,11 @@
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_DB.mdf
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_DB_log.ldf
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_NT.Business.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_NT.Business.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_DB.Entities.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_NT.DataAccess.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_DB.Entities.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\bin\Debug\SMS_NT.DataAccess.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\obj\Debug\SMS_NT.Business.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\obj\Debug\SMS_NT.Business.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Business\obj\Debug\SMS_NT.Business.pdb

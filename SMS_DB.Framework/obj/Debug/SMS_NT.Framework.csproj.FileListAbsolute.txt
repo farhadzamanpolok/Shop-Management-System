@@ -1,0 +1,7 @@
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\bin\Debug\SMS_DB.Framework.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\bin\Debug\SMS_DB.Framework.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\bin\Debug\SMS_NT.Databsae.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\bin\Debug\SMS_NT.Databsae.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\obj\Debug\SMS_NT.Framework.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\obj\Debug\SMS_DB.Framework.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Framework\obj\Debug\SMS_DB.Framework.pdb

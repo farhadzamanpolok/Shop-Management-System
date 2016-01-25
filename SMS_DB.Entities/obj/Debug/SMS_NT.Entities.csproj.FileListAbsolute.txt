@@ -1,0 +1,5 @@
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Entities\bin\Debug\SMS_DB.Entities.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Entities\bin\Debug\SMS_DB.Entities.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Entities\obj\Debug\SMS_NT.Entities.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Entities\obj\Debug\SMS_DB.Entities.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_DB.Entities\obj\Debug\SMS_DB.Entities.pdb

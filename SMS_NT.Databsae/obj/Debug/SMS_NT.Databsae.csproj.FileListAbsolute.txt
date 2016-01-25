@@ -1,0 +1,6 @@
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\bin\Debug\SMS_NT.Databsae.dll.config
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\bin\Debug\SMS_NT.Databsae.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\bin\Debug\SMS_NT.Databsae.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\obj\Debug\SMS_NT.Databsae.dll
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\obj\Debug\SMS_NT.Databsae.pdb
+G:\DEPATMENTALCOURSES\programing language\c #\Bijoy_shop_management\SMS_NT\SMS_NT.Databsae\obj\Debug\SMS_NT.Databsae.csprojResolveAssemblyReference.cache
